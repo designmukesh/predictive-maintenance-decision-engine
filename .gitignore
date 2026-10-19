@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+# Data (regenerated from projects #1/#2 pipelines)
+data/*.txt
+data/*.zip
+# Notebooks
+.ipynb_checkpoints/
+# OS
+.DS_Store
