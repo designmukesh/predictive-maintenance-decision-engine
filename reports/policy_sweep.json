@@ -1,0 +1,340 @@
+{
+ "k": 5.0,
+ "T": {
+  "0.0": {
+   "n_engines": 20,
+   "total_cost": 100.0,
+   "cost_per_engine": 5.0,
+   "unplanned_failures": 20,
+   "unplanned_rate": 1.0,
+   "interventions": 0,
+   "mean_wasted_life": 0.0
+  },
+  "2.0": {
+   "n_engines": 20,
+   "total_cost": 88.0,
+   "cost_per_engine": 4.4,
+   "unplanned_failures": 17,
+   "unplanned_rate": 0.85,
+   "interventions": 3,
+   "mean_wasted_life": 0.35
+  },
+  "4.0": {
+   "n_engines": 20,
+   "total_cost": 40.0,
+   "cost_per_engine": 2.0,
+   "unplanned_failures": 5,
+   "unplanned_rate": 0.25,
+   "interventions": 15,
+   "mean_wasted_life": 2.3
+  },
+  "6.0": {
+   "n_engines": 20,
+   "total_cost": 24.0,
+   "cost_per_engine": 1.2,
+   "unplanned_failures": 1,
+   "unplanned_rate": 0.05,
+   "interventions": 19,
+   "mean_wasted_life": 4.55
+  },
+  "8.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 7.85
+  },
+  "10.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 9.3
+  },
+  "12.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 12.1
+  },
+  "14.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 13.8
+  },
+  "16.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 15.95
+  },
+  "18.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 18.05
+  },
+  "20.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 20.15
+  },
+  "22.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 22.7
+  },
+  "24.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 23.65
+  },
+  "26.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 24.85
+  },
+  "28.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 26.95
+  },
+  "30.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 28.45
+  },
+  "32.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 30.1
+  },
+  "34.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 30.7
+  },
+  "36.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 34.25
+  },
+  "38.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 35.5
+  },
+  "40.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 36.4
+  },
+  "42.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 38.5
+  },
+  "44.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 41.7
+  },
+  "46.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 44.0
+  },
+  "48.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 46.35
+  },
+  "50.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 48.55
+  },
+  "52.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 52.1
+  },
+  "54.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 54.1
+  },
+  "56.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 56.5
+  },
+  "58.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 58.7
+  },
+  "60.0": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 63.0
+  }
+ },
+ "N": {
+  "25": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 180.2
+  },
+  "50": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 155.2
+  },
+  "75": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 130.2
+  },
+  "100": {
+   "n_engines": 20,
+   "total_cost": 20.0,
+   "cost_per_engine": 1.0,
+   "unplanned_failures": 0,
+   "unplanned_rate": 0.0,
+   "interventions": 20,
+   "mean_wasted_life": 105.2
+  },
+  "150": {
+   "n_engines": 20,
+   "total_cost": 24.0,
+   "cost_per_engine": 1.2,
+   "unplanned_failures": 1,
+   "unplanned_rate": 0.05,
+   "interventions": 19,
+   "mean_wasted_life": 55.95
+  }
+ },
+ "rtf": {
+  "n_engines": 20,
+  "total_cost": 100.0,
+  "cost_per_engine": 5.0,
+  "unplanned_failures": 20,
+  "unplanned_rate": 1.0,
+  "interventions": 0,
+  "mean_wasted_life": 0.0
+ }
+}
